@@ -177,13 +177,13 @@
     },
     {
       "name": "quill_delta",
-      "rootUri": "file:///home/steve/.pub-cache/hosted/pub.dartlang.org/quill_delta-3.0.0-nullsafety.2",
+      "rootUri": "file:///home/steve/.pub-cache/git/quill-delta-dart-80b44723b304a7761405c47b6fe08b73fe8840b1/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "quill_format",
-      "rootUri": "file:///home/steve/.pub-cache/git/quill_format-2548d276ec8669d2dae4c798fc22fbc5289db482/",
+      "rootUri": "file:///home/steve/.pub-cache/git/quill_format-76f331cc934f287fd343103e622954788ead89d4/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -320,7 +320,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2021-09-30T01:44:38.964314Z",
+  "generated": "2021-09-30T02:01:16.943387Z",
   "generator": "pub",
   "generatorVersion": "2.14.2"
 }
